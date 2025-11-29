@@ -26,7 +26,7 @@ CS502_Capstone_NetworkForensics/
 
 ## ⚙️ Requirements
 
-This project is written in **Python 3.x** and relies only on Python’s **standard library**.
+This project is written in **Python 3.1** and relies only on Python’s **standard library**.
 No external dependencies are required.
 
 ### 🧰 Modules Used
