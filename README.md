@@ -1,5 +1,4 @@
----
-
+```md
 # CS502_Capstone_NetworkForensics
 
 ## 📘 Overview
@@ -12,6 +11,7 @@ It includes modules for **network packet sniffing**, **vulnerability scanning**,
 ## 🧩 Project Structure
 
 ```
+
 CS502_Capstone_NetworkForensics/
 │
 ├── Network_Forensics_Capstone/
@@ -20,7 +20,8 @@ CS502_Capstone_NetworkForensics/
 │   ├── vuln_scanner.py         # Scans for open ports and potential vulnerabilities
 │
 └── README.md                   # Project documentation
-```
+
+````
 
 ---
 
@@ -56,7 +57,7 @@ Analyzes server or system logs to detect suspicious activities such as SQL injec
 
 ```bash
 python3 log_analyzer.py
-```
+````
 
 ---
 
