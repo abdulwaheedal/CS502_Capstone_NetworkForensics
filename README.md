@@ -1,4 +1,3 @@
-```md
 # CS502_Capstone_NetworkForensics
 
 ## 📘 Overview
